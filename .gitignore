@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+README.html
+build/
+dist/
+*.pyc
